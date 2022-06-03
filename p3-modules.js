@@ -1,3 +1,7 @@
+/*
+    CIT 281 Project 3
+    Name: Sierra Baker
+*/
 /*Returns true if the coin function parameter is a valid coin value of either 1, 5, 10, 25, 50, or 100
 Must use the array indexOf() method, and !== equality operator
 This function can be coded to be a single line of code*/
