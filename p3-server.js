@@ -1,3 +1,7 @@
+/*
+    CIT 281 Project 3
+    Name: Sierra Baker
+*/
 //import the built-in fs package, and assign the package to a constant variable called fs
 const fs = require("fs");
 //import the third-party fastify package, and assign the package to a constant variable called fastify
