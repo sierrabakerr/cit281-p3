@@ -35,7 +35,7 @@ You will be creating a "coinage" code module that is capable of calculating the 
 ## Project Deliverables:
 
 ### 1. p3-module.js
-[p3-module.js](module.js)
+[p3-module.js](p3-modules.js)
 
 ### 2. p3-server.js
 [p3-server.js](p3-server.js)
