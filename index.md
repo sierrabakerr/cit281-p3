@@ -34,17 +34,13 @@ You will be creating a "coinage" code module that is capable of calculating the 
 
 ## Project Deliverables:
 
-### 1. p3-module.js
-[p3-module.js](p3-modules.js)
+### 1. [p3-module.js](p3-modules.js)
 
-### 2. p3-server.js
-[p3-server.js](p3-server.js)
+### 2. [p3-server.js](p3-server.js)
 
-### 3. index.html
-[index.html](index.html)
+### 3. [index.html](index.html)
 
-### 4. package.json
-[package.json](package.json)
+### 4. [package.json](package.json)
 
 ### 5. .gitignore (screenshot)
 ![gitignore.png](gitignore.png)
